@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## 📌 42 Cursus status
+
+<p align=center>
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/sbenitez?1337Badge=off&UM6P=off" alt="sbenitez's 42 stats" /></a>
+</p>
 <!--
 **Sergio-Benitez/Sergio-Benitez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
