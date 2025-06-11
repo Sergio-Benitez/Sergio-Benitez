@@ -37,7 +37,7 @@ Welcome to my GitHub containing all my projects from **42 Málaga**. Here you'll
 ### 🔹 **Philosophers**  
 🍽️ A concurrency problem where multiple philosophers must alternate between eating and thinking without causing deadlocks or starvation, using **threads and mutexes**.  
 
-###🔹 **Minishell**
+### 🔹 **Minishell**  
 💻 A miniature shell that replicates basic features of bash. It supports command parsing, execution, environment variables, redirections (>, <, >>), pipelines (|), and built-in commands like cd, echo, pwd, export, and exit. This project strengthens understanding of process management, file descriptors, and terminal behavior.
 
 ## ⚡ Skills Developed  
